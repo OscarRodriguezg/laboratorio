@@ -8,7 +8,7 @@ namespace PartsUnlimited.Models
 {
     // Mi primer comentario
     // otro cambio
-    // otra mas comentarios [local]
+    // otra mas comentarios
     public class CartItem
     {
         [Key]
